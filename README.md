@@ -1,5 +1,5 @@
 # Nicolas Levy, PhD student
-Welcome to my proffessional web page.
+Welcome to my professional web page.
 
 I am a PhD student at [LIP](http://www.ens-lyon.fr/LIP/) in [ENS de Lyon](http://www.ens-lyon.fr/)
 supervised by [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel).
@@ -40,7 +40,7 @@ designing 3D DNA nanostructures.
 ## Upcoming talks
 
 * ENSnano: A software for designing 3D DNA nanostructures.  27th October At the [DNA Nanotech for Medicine & Biology Webinar](https://blogs.ed.ac.uk/dnananotechwebinars/)
-* Talk at GT Bioss, 23rd November - Lyon. title to be decied
+* Talk at GT Bioss, 23rd November - Lyon. title to be decided
 
 ## Previous talks
 
