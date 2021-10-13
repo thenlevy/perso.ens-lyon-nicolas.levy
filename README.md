@@ -15,7 +15,7 @@ designing 3D DNA nanostructures.
 ## Contact informations
 
 * Email address: firstname.lastname@ens-lyon.fr 
-* Github username: [thenlevy]()https://github.com/thenlevy
+* Github username: [thenlevy](https://github.com/thenlevy)
 
 ## Publications
 
