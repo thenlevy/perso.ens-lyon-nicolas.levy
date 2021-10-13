@@ -1,8 +1,3 @@
----
-title-heading: false
----
-
-
 # Nicolas Levy, PhD student
 Welcome to my proffessional web page.
 
