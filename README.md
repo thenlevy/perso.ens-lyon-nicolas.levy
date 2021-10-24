@@ -4,8 +4,14 @@ Welcome to my professional web page.
 I am a PhD student at [LIP](http://www.ens-lyon.fr/LIP/) in [ENS de Lyon](http://www.ens-lyon.fr/)
 supervised by [Nicolas Schabanel](http://perso.ens-lyon.fr/nicolas.schabanel).
 
-My PhD project consists in developing [ENSnano](http://www.ens-lyon.fr/ensnano/) a software for
-designing 3D DNA nanostructures.
+My PhD project consists in thinking about DNA nanostructures softwares in terms of user experience. More precisely,
+my goals are to:
+ * identify and come up with features that allow to effectively design DNA nanostrctures
+ * develop tools that implement those features
+ * design ergonomic and easy to use user interfaces that incorporate these tools.
+ 
+[ENSnano](http://www.ens-lyon.fr/ensnano/) is the result of these reflexions. It is a software for
+designing 3D DNA nanostructures that aims to be powerful, flexible and easy to use. 
 
 ## Research interests
 
