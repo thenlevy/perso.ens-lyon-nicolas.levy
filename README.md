@@ -45,10 +45,10 @@ designing 3D DNA nanostructures that aims to be powerful, flexible and easy to u
 
 ## Upcoming talks
 
-* ENSnano: A software for designing 3D DNA nanostructures.  27th October At the [DNA Nanotech for Medicine & Biology Webinar](https://blogs.ed.ac.uk/dnananotechwebinars/)
-* Talk at GT Bioss, 23rd November - Lyon. title to be decided
+* Talk at GT Bioss, 23rd November - Lyon.
 
 ## Previous talks
 
+* ENSnano: A software for designing 3D DNA nanostructures.  27th October At the [DNA Nanotech for Medicine & Biology Webinar](https://blogs.ed.ac.uk/dnananotechwebinars/) (recordings to come)
 * ENSnano: a 3D modeling software for DNA nanostructures. At the [27th International Conference on DNA Computing and Molecular Programming](http://dna27.iopconfs.org/home). [[YouTube recording of the talk]](https://www.youtube.com/watch?v=NPH-ukYMhdY)
 
