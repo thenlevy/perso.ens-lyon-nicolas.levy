@@ -18,7 +18,7 @@ designing 3D DNA nanostructures that aims to be powerful, flexible and easy to u
 * Software development, especially in the [Rust programing language](https://www.rust-lang.org/)
 * Molecular programing, DNA self assembly and DNA nanotechnologies
 
-## Contact informations
+## Contact information
 
 * Email address: firstname.lastname@ens-lyon.fr 
 * Github username: [thenlevy](https://github.com/thenlevy)
