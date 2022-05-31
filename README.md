@@ -28,8 +28,8 @@ designing 3D DNA nanostructures that aims to be powerful, flexible and easy to u
 ### Related to ENSnano
 
 * > Levy, N., & Mills, A., & Bellot, G., & Schabanel, N. (2022). Rule-of-thumb-free geometry-driven design of 
-  > arbitrary complex curved DNA origami with ENSnano. Abstract published in the 28th International Conference on
-  > DNA computing and Molecular Programming (DNA 28, New Mexico)
+  > arbitrary complex curved DNA origami with ENSnano. Abstract accepted for presentation at the 28th International 
+  > Conference on DNA computing and Molecular Programming (DNA 28, New Mexico)
 
 * > Levy, N., & Schabanel, N. (2021). ENSnano: A 3D Modeling Software for DNA Nanostructures.
   > In 27th International Conference on DNA Computing and Molecular Programming (DNA 27).
